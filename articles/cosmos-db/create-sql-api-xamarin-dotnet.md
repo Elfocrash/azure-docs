@@ -44,7 +44,7 @@ If you are using a Mac, you can download the **free** [Visual Studio for Mac](ht
 
 ## Add a container
 
-[!INCLUDE [cosmos-db-create-collection](../../includes/cosmos-db-create-collection.md)]
+[!INCLUDE [cosmos-db-create-container](../../includes/cosmos-db-create-container.md)]
 
 ## Add sample data
 
